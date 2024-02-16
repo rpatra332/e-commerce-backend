@@ -60,9 +60,6 @@ local.properties
 # CDT- autotools
 .autotools
 
-# Java annotation processor (APT)
-.factorypath
-
 # PDT-specific (PHP Development Tools)
 .buildpath
 
@@ -74,9 +71,6 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
-
-# STS (Spring Tool Suite)
-.springBeans
 
 # Code Recommenders
 .recommenders/
@@ -146,9 +140,6 @@ cmake-build-*/
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
-
-# File-based project format
-*.iws
 
 # IntelliJ
 out/
