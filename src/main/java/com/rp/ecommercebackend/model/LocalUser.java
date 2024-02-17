@@ -1,6 +1,7 @@
 package com.rp.ecommercebackend.model;
 
 import jakarta.persistence.*;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
