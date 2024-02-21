@@ -1,7 +1,7 @@
 package com.rp.ecommercebackend.api.controller.product;
 
 import com.rp.ecommercebackend.model.Product;
-import com.rp.ecommercebackend.model.dao.ProductService;
+import com.rp.ecommercebackend.service.ProductService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
